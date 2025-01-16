@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhriti Singh</h1>
-<h3 align="center">A Full-Stack Developer with a keen interest in artificial intelligence and machine learning.</h3>
+<h3 align="center">A Full-Stack Developer with a keen interest in Artificial Intelligence and Machine Learning.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhriti250&label=Profile%20views&color=0e75b6&style=flat" alt="dhriti250" /> </p>
