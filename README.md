@@ -7,7 +7,7 @@
 - 📫 How to reach me **dhriti.singh250@gmail.com**
 - ⚙️ I'm currently working on Machine Learning and Generative AI systems
 - 🛠️ Focused on building real-world AI applications with scalable backend systems.
-- ⚡ Fun fact: I'm funny
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
