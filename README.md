@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **dhriti.singh250@gmail.com**
 - ⚙️ I'm currently working on Agentic AI, Generative AI and Backend Systems.
-- 🛠️I'm currentyly learning Machine Learning.
+- 🛠️ I'm currentyly learning Machine Learning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
