@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhriti250&label=Profile%20views&color=0e75b6&style=flat" alt="dhriti250" /> </p>
 
 - 📫 How to reach me **dhriti.singh250@gmail.com**
-- ⚙️ I'm currently working on Agentic AI, Generative AI and Backend Systems.
-- 🛠️ I'm currentyly learning Machine Learning.
+- ⚙️ I'm currently working on Machine Learning and Generative AI systems
+- 🛠️ Focused on building real-world AI applications with scalable backend systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
