@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhriti Singh</h1>
+<h1 align="center">Hi 👋, I'm Dhriti Singh.</h1>
 <h3 align="center">Building AI-powered backend systems | GenAI • APIs • Distributed Systems</h3>
 
 
